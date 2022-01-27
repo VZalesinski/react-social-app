@@ -1,0 +1,17 @@
+.header {
+  grid-area: h;
+  background-color: #daad86;
+  display: flex;
+  justify-content: start;
+  padding: 10px;
+}
+
+.title {
+  margin: 0;
+  color: #fff;
+  font-size: 26px;
+}
+
+.img {
+  margin-right: 20px;
+}
